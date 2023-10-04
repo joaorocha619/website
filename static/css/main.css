@@ -1,0 +1,19 @@
+/* Apply styles to header elements */
+header {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Apply styles to navigation links */
+nav {
+    background-color: #444;
+    color: #fff;
+}
+
+/* Apply styles to footer */
+footer {
+    background-color: #555;
+    color: #fff;
+}
+
+/* Add more styles as needed */
